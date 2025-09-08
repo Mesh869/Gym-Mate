@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Avenir";
+  src: url("./assets/fonts/avenir_ff/AvenirLTStd-Book.woff") format("woff"),
+    url("./assets/fonts/avenir_ff/AvenirLTStd-Book.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Avenir", sans-serif;
+}
