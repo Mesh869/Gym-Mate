@@ -2,6 +2,7 @@
 import Hero from "../Sections/Hero";
 // import About from "../Sections/About";
 // import Services from "../Sections/Services";
+import Teams from "../Components/Team";
 import PricingPage from "../Sections/PricingPage";
 import Testimonials from "../Sections/Testimonials";
 import ContactPage from "../Sections/ContactPage";
@@ -11,6 +12,7 @@ const Home = () => {
   return (
     <div>
       <Hero />
+      <Teams />
       <Testimonials />
       <PricingPage />
       <ContactPage />
