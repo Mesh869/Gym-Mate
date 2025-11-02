@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 // import contact from "../assets/contact-image.jpg";
 import User from "../assets/user1.jpg";
 import { FaArrowRightLong } from "react-icons/fa6";
